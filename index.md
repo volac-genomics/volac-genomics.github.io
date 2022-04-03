@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+Explore bacterial genomes with:
 
-You can use the [editor on GitHub](https://github.com/volac-genomics/volac-genomics.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[Core](https://amybaldwin.github.io/Core/): A comprehensive whole genome analysis pipeline for microbial isolates. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Tool 1](https://amybaldwin.github.io/Tool_1/): A mass screening tool using up-to-date, curated databases 
 
-### Markdown
+[Tool 2](https://amybaldwin.github.io/Tool_2/): A genome mass screening tool with bespoke sequences 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Tool 3](https://amybaldwin.github.io/Tool_3/): A whole genome comparison tool 
 
-```markdown
-Syntax highlighted code block
+[Tool 4](https://amybaldwin.github.io/Tool_4/): Finding unique sections of DNA for primer design
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+Documentation for the [reference libraries](https://amybaldwin.github.io/reference_libraries/) and [upkeep](https://amybaldwin.github.io/maintenance_manual/).
 
-1. Numbered
-2. List
+The Tools are built with the pipeline manager [Nextflow](https://www.nextflow.io/), and operate within [Singularity](https://sylabs.io/singularity) containers.
 
-**Bold** and _Italic_ and `Code` text
+The suite was developed as part of a collaborative project between [Volac International Ltd](https://www.volac.com/). and [Cardiff University](https://www.cardiff.ac.uk/), partly funded by [Innovate UK](https://www.gov.uk/government/organisations/innovate-uk) as part of a [knowledge transfer partnership (KTP)](https://www.ktp-uk.org/).
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/volac-genomics/volac-genomics.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
