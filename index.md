@@ -1,4 +1,8 @@
-## Welcome to the Whole Genome analysis suite for Microbial Isolates
+## Welcome to the microbial isolates analysis suite
+
+The suite was developed as part of a collaborative project between [Volac International Ltd](https://www.volac.com/). and [Cardiff University](https://www.cardiff.ac.uk/), partly funded by [Innovate UK](https://www.gov.uk/government/organisations/innovate-uk) as part of a [knowledge transfer partnership (KTP)](https://www.ktp-uk.org/).
+
+---
 
 Explore bacterial genomes with:
 
@@ -12,13 +16,9 @@ Explore bacterial genomes with:
 
 [Tool 4](https://amybaldwin.github.io/Tool_4/): Finding unique sections of DNA for primer design
 
-Documentation for the associated [reference libraries](https://amybaldwin.github.io/reference_libraries/) and [upkeep](https://amybaldwin.github.io/maintenance_manual/).
-
----
-
 The Tools are built with the pipeline manager [Nextflow](https://www.nextflow.io/), and operate within [Singularity](https://sylabs.io/singularity) containers.
 
-The suite was developed as part of a collaborative project between [Volac International Ltd](https://www.volac.com/). and [Cardiff University](https://www.cardiff.ac.uk/), partly funded by [Innovate UK](https://www.gov.uk/government/organisations/innovate-uk) as part of a [knowledge transfer partnership (KTP)](https://www.ktp-uk.org/).
+Documentation for the associated [reference libraries](https://amybaldwin.github.io/reference_libraries/) and [upkeep](https://amybaldwin.github.io/maintenance_manual/).
 
 ---
 
