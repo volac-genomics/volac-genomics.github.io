@@ -18,7 +18,7 @@ Explore bacterial genomes with:
 
 The Tools are built with the pipeline manager [Nextflow](https://www.nextflow.io/), and operate within [Singularity](https://sylabs.io/singularity) containers.
 
-Maintenance documentation can be found [here](https://volac-genomics.github.io/maintenance_manual/).
+Maintenance documentation can be found [here](https://volac-genomics.github.io/maintenance_docs/).
 
 ---
 
