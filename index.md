@@ -6,19 +6,19 @@ The suite was developed as part of a collaborative project between [Volac Intern
 
 Explore bacterial genomes with:
 
-[Core](https://amybaldwin.github.io/Core/): A comprehensive whole genome analysis pipeline for microbial isolates. 
+[Core](https://volac-genomics.github.io/Core_docs/): A comprehensive whole genome analysis pipeline for microbial isolates. 
 
-[Tool 1](https://amybaldwin.github.io/Tool_1/): The mass screening tool using up-to-date, curated databases 
+[Tool 1](https://volac-genomics.github.io/Tool1_docs/): The mass screening tool using up-to-date, curated databases 
 
-[Tool 2](https://amybaldwin.github.io/Tool_2/): A genome mass screening tool with bespoke sequences 
+[Tool 2](https://volac-genomics.github.io/Tool2_docs/): A genome mass screening tool with bespoke sequences 
 
-[Tool 3](https://amybaldwin.github.io/Tool_3/): The whole genome comparison tool 
+[Tool 3](https://volac-genomics.github.io/Tool3_docs/): The whole genome comparison tool 
 
-[Tool 4](https://amybaldwin.github.io/Tool_4/): Finding unique sections of DNA for primer design
+[Tool 4](https://volac-genomics.github.io/Tool4_docs/): Finding unique sections of DNA for primer design
 
 The Tools are built with the pipeline manager [Nextflow](https://www.nextflow.io/), and operate within [Singularity](https://sylabs.io/singularity) containers.
 
-Documentation for the associated [reference libraries](https://amybaldwin.github.io/reference_libraries/) and [upkeep](https://amybaldwin.github.io/maintenance_manual/).
+Maintenance documentation can be found [here](https://volac-genomics.github.io/maintenance_manual/).
 
 ---
 
