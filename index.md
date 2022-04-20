@@ -22,4 +22,4 @@ Maintenance documentation can be found [here](https://volac-genomics.github.io/m
 
 ---
 
-***NEW***, the [RunAnyTool](https://amybaldwin.github.io/RunAnyTool/) guide describes the quick and easy set up almost any software tool on your system. To use space efficiently, the tools can easily be removed once analysis is complete. Set up does not require installing additional dependencies and can be completed in a matter of minutes. 
+***NEW***, the [RunAnyTool](https://volac-genomics.github.io/RunAnyTool/) guide describes the quick and easy set up almost any software tool on your system. To use space efficiently, the tools can easily be removed once analysis is complete. Set up does not require installing additional dependencies and can be completed in a matter of minutes. 
